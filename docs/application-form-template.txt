@@ -1,0 +1,90 @@
+AI BUILD BRIEF (Developer Fill‑In)
+
+Instructions
+- Fill succinctly; prefer concrete specs, schemas, and examples.
+- Check off items with [x]. Add links to tickets/designs.
+
+Meta & Repo
+- Project name: _________________________________________________
+- Repo URL: ______________________________________________________
+- Package manager: [ ] pnpm  [ ] npm  [ ] yarn
+- Node/runtime: _________________________________________________
+- Framework: __________________________________  Version: ________
+- UI lib/design system: __________________________________________
+- Styling: _______________________________________________________
+- Hosting/environments: __________________________________________
+
+Execution Preferences (for AI)
+- Change policy: [ ] surgical edits  [ ] broader refactor allowed
+- Must run: [ ] build  [ ] tests  [ ] lint/format  [ ] typecheck
+- Risk tolerance: [ ] fail‑fast  [ ] conservative
+- Forbidden areas/files: _________________________________________
+- Code style rules (brief): ______________________________________
+
+Intent & Scope
+- One‑liner: _____________________________________________________
+- Problem/value: ________________________________________________
+- Non‑goals: _____________________________________________________
+- Must‑have features (MVP) with acceptance criteria:
+  1) Feature: __________________  Criteria: ______________________
+  2) Feature: __________________  Criteria: ______________________
+- Out‑of‑scope: _________________________________________________
+
+Architecture
+- Frontend (routing/state/providers): ____________________________
+- Backend/API (if any): _________________________________________
+- Theming/SSR/ISR policies: _____________________________________
+- Data flow summary: ____________________________________________
+
+Data Models
+- Entities & fields (name: type, required, default):
+  - Entity: ______________________________________________________
+  - Fields: ______________________________________________________
+- Validation rules: _____________________________________________
+- Example records (JSON): _______________________________________
+
+API Contracts
+- Base URL(s): ___________________________________________________
+- Auth: [ ] JWT  [ ] OAuth  [ ] API key  [ ] None  Other: _______
+- Endpoints (method, path, request, response, error codes):
+  - ______________________________________________________________
+  - ______________________________________________________________
+
+UX & Content
+- Key screens/pages: ____________________________________________
+- Components to use (from repo): _________________________________
+- Navigation model: ______________________________________________
+- Accessibility: [ ] contrast  [ ] keyboard  [ ] ARIA  Notes: ____
+- i18n/locales: _________________________________________________
+
+Dev Environment
+- Commands: `dev`: __________  `build`: __________  `test`: ______
+- Env vars (name=example): ______________________________________
+- Secrets handling: _____________________________________________
+
+Integrations
+- External services/SDKs: ________________________________________
+- Webhooks/callbacks: ___________________________________________
+
+Performance & Security
+- Perf targets: _________________________________________________
+- Security requirements: ________________________________________
+- Threats/mitigations: __________________________________________
+
+SEO & Analytics
+- Metadata requirements (title/description/OG): __________________
+- Sitemap/robots: _______________________________________________
+- Analytics tools/events: _______________________________________
+
+Release Plan
+- Milestones/dates: _____________________________________________
+- Rollout/feature flags: ________________________________________
+- Go/no‑go criteria: ____________________________________________
+
+Open Questions
+- ________________________________________________________________
+- ________________________________________________________________
+
+Notes to AI (what to build next)
+- Immediate tasks desired: ______________________________________
+- Constraints/priority order: ___________________________________
